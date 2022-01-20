@@ -15,9 +15,9 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/vrawat2710/)
-[<img align="left" alt="holisitc_developer |Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/ig_rawx/)
-[<img align="left" alt="holisitc_developer |Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/Vinayak97153885)
+[<img align="left" alt="holisitc_developer |LinkedIn" width="22px"src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>](https://www.linkedin.com/in/vrawat2710/)
+[<img align="left" alt="holisitc_developer |Instagram" width="22px" src="https://img.icons8.com/clouds/100/000000/instagram-new--v3.png"/>](https://www.instagram.com/ig_rawx/)
+[<img align="left" alt="holisitc_developer |Twitter" width="22px" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>](https://twitter.com/Vinayak97153885)
 <br />
 
 
