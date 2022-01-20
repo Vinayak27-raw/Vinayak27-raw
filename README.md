@@ -1,6 +1,6 @@
 ### Hi there 👋
  <img align="right" alt="GIF" src="e1f3413bf5036045713341394f617225.gif" width="500" height="320" />
- ## ## I'm a Student, Coder, Developer, Creator, and Learner!!
+ ## I'm a Student, Coder, Developer, Creator, and Learner!!
 
 
 
