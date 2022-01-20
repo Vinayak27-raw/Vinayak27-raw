@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello World , I'm Vinayak 👋
  <img align="right" alt="GIF" src="e1f3413bf5036045713341394f617225.gif" width="500" height="320" />
+
+
+
 ## I'm a Student, Coder, Developer, Creator, and Learner!!
-
-
-
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Open Source
