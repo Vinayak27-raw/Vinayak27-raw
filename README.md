@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-Vinayak27-raw/Vinayak27-raw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning Javascript
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ig_rawx/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Love to watch E-sports and Interact on twitter Spaces
--->
+
