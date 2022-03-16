@@ -1,7 +1,7 @@
 ### Hello World , I'm Vinayak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  <img align="right" alt="GIF" src="e1f3413bf5036045713341394f617225.gif" width="500" height="320" />
 
-
+<p align="left"> <a href="https://twitter.com/ig_rawx" target="blank"><img src="https://img.shields.io/twitter/follow/ig_rawx?logo=twitter&style=for-the-badge" alt="ig_raw" /></a> </p>
 
 ## I'm a Student, Coder, Developer, Creator, and Learner!!
 - 🔭 I’m currently working on my course
@@ -37,3 +37,6 @@
 [linkedin]: https://www.linkedin.com/in/vrawat2710/
 [twitter]: https://twitter.com/Vinayak97153885
 
+
+<br></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinayak27-raw&show_icons=true&locale=en" alt="Vinayak27-raw" /></p>
