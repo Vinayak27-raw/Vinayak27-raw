@@ -17,6 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Starting your Journey Learning Azure Node.js](https://medium.com/@vinayakrawat292/azure-node-js-cd2b75758a00)
 - [Blockchain and its applications](https://dev.to/vinayak27raw/blockchain-and-its-applications-nea)
+- [What are Github Actions and how to use it](https://dev.to/vinayak27raw/what-are-github-actions-and-how-to-use-it-3eol)
 <!-- BLOG-POST-LIST:END -->
 
 ### Talk with me, I am kinda awesome:
